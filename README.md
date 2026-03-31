@@ -1,5 +1,8 @@
 # ME-publication-in-2026
-This is the summary of ME journal publication in 2026
+📚 This is the summary of ME journal publication in 2026
+
+🔍 Highlights
+✅ 12 peer-reviewed publications
 
 | Author | Title | Journal | Ranking |
 |--------|-------|---------|---------|
@@ -14,3 +17,4 @@ This is the summary of ME journal publication in 2026
 | RCR, GPN | Electro-Actuated Customizable Stacked Fin Ray Gripper for Adaptive Object Handling | Actuators | Q2 |
 | PTP, JVS | Intramedullary nail design for Thais with novel multi-femur shape optimization approach | Scientific Reports | Q1 |
 | PTP, JVS | Determining how the pattern of bone healing affects the strain of plate implant via frequency detection: a biomechanical cadaveric study | Chulalongkorn Medical Journal | — |
+| RCR, GPN | A Deep Learning- and AI-Enhanced Telecentric Vision Framework for Automated Imaging-to-CAD Reconstruction | Computer Modeling in Engineering & Sciences | — |
