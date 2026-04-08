@@ -2,7 +2,7 @@
 📚 This is the summary of ME journal publication in 2026
 
 🔍 Highlights
-✅ 15 peer-reviewed publications
+✅ 16 peer-reviewed publications
 
 | Author | Title | Journal | Ranking |
 |--------|-------|---------|---------|
@@ -21,5 +21,6 @@
 | CTT | Performance Improvement of a Refrigeration Cycle Using the Subcooling Effect from the Thermal Energy Storage | Engineering Journal | — |
 | RCR, GPN | Design and Evaluation of a Dual-Layer Emotion–Personality Framework for Adaptive Conversational Robots | Journal of Advances in Information Technology | — |
 | TJW, GPN | An Accessible 2D Video-Based Gait Analysis Framework with Model-Based Illustration of Joint Torque and Power Trends | Scientific Reports | Q1 |
+| RCR | You Only Grasp Once: Human-Inspired Benign Grasping for Agricultural Products |  Journal of Intelligent & Robotic Systems | Q1 |
 
 
