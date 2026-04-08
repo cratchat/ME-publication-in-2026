@@ -2,7 +2,7 @@
 📚 This is the summary of ME journal publication in 2026
 
 🔍 Highlights
-✅ 12 peer-reviewed publications
+✅ 16 peer-reviewed publications
 
 | Author | Title | Journal | Ranking |
 |--------|-------|---------|---------|
@@ -18,3 +18,9 @@
 | PTP, JVS | Intramedullary nail design for Thais with novel multi-femur shape optimization approach | Scientific Reports | Q1 |
 | PTP, JVS | Determining how the pattern of bone healing affects the strain of plate implant via frequency detection: a biomechanical cadaveric study | Chulalongkorn Medical Journal | — |
 | RCR, GPN | A Deep Learning- and AI-Enhanced Telecentric Vision Framework for Automated Imaging-to-CAD Reconstruction | Computer Modeling in Engineering & Sciences | — |
+| CTT | Performance Improvement of a Refrigeration Cycle Using the Subcooling Effect from the Thermal Energy Storage | Engineering Journal | — |
+| RCR, GPN | Design and Evaluation of a Dual-Layer Emotion–Personality Framework for Adaptive Conversational Robots | Journal of Advances in Information Technology | — |
+| RCR, GPN | A Deep Learning- and AI-Enhanced Telecentric Vision Framework for Automated Imaging-to-CAD Reconstruction | CMES-Computer Modeling in Engineering & Sciences | — |
+| TJW, GPN | An Accessible 2D Video-Based Gait Analysis Framework with Model-Based Illustration of Joint Torque and Power Trends | Scientific Reports | Q1 |
+
+
