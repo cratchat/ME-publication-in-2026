@@ -2,7 +2,7 @@
 📚 This is the summary of ME journal publication in 2026
 
 🔍 Highlights
-✅ 17 peer-reviewed publications
+✅ 18 peer-reviewed publications
 
 | Author | Title | Journal | Ranking |
 |--------|-------|---------|---------|
@@ -23,4 +23,4 @@
 | TJW, GPN | An Accessible 2D Video-Based Gait Analysis Framework with Model-Based Illustration of Joint Torque and Power Trends | Scientific Reports | Q1 |
 | RCR | You Only Grasp Once: Human-Inspired Benign Grasping for Agricultural Products |  Journal of Intelligent & Robotic Systems | Q1 |
 | TPP | Energy and exergy analysis of a hybrid active-passive PV cooling system with MgO-enhanced PCM, metallic microchannels, and TEGs |  Renewable Energy | — |
-
+| WSN | Sacrificial-Layer Technique Fabrication and Characterization of Membrane Pneumatic Actuators for Flow Control in Microfluidics – Reproducibility Assessment |  Applied Science and Engineering Progress | — |
