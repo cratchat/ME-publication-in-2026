@@ -9,7 +9,7 @@
 | GPN* | Virtual Reality Rehabilitation Platform for Mild Cognitive Impairment: A Metaverse Approach | Engineering Journal | Q2 |
 | SSL* | Optimal scheduling of hydropower and pumped storage hydropower for high renewable energy share in Thailand: A novel hybrid optimization approach with dimensionality reduction | Journal of Energy Storage | T1 |
 | SMK | Effect of Fibre Content and Surface Treatment on the Properties of Coconut Fibre/ Recycled Polypropylene (CF/rPP) Composites for FDM-Based 3D Printing | Jurnal Kejuruteraan | — |
-| WSN1 | Nickel tungstate nanoparticles synthesized via a surfactant-assisted method: an efficient platform for neurotransmitter detection | Journal of Materials Chemistry B | T1 |
+| WSN<sup>1</sup> | Nickel tungstate nanoparticles synthesized via a surfactant-assisted method: an efficient platform for neurotransmitter detection | Journal of Materials Chemistry B | T1 |
 | PTP, JVS* | Development of prosthetic foot with an adjustable rollover shape for low-activity amputees (K-level 1–2) | Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science | Q2 |
 | JVS, PTP* | New design of plate implant for bone healing assessment using frequency measurement: a biomechanical cadaveric study | Scientific Reports | Q1 |
 | ROY1, BLN* | Impact of Leading and Trailing-Edge Perforations on the Thermohydraulic Performance of Rectangular-Winglet Vortex Generators | International Journal of Energy Research | T1 |
