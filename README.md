@@ -2,7 +2,7 @@
 📚 This is the summary of ME journal publication in 2026
 
 🔍 Highlights
-✅ 21 peer-reviewed publications
+✅ 23 peer-reviewed publications
 
 | Author | Title | Journal | Ranking |
 |--------|-------|---------|---------|
@@ -27,3 +27,6 @@
 | SMK, PSG* | Detection of Failure and Measurement of Number of Cycles to Failure of Nickel–Titanium Rotary files in Bending Fatigue Testing |  European Journal of Dentistry | Q3 |
 | RCR* | In-Situ Casting as a Formative Manufacturing Primitive within FDM 3D Printing |  Polymers | Q1 |
 | WSN* | Bioinspired carbon dot-Ag nanocomposite derived from basil leaves for sensitive electrocatalytic detection of ciprofloxacin |  Journal of Water Process Engineering | T1 |
+| GPN* | Joint Signal-Power and Direction of Arrival Estimation For Far-field Targets Using Novel Meta Heuristic Framework | IEEE Access | T1 |
+| TSN* | Evaluation of The Flexural Properties of Re-entrant Structured Sandwich Beams Fabricated via 3D Printing Using Three-Point Bending Test | Engineering Journal | Q2 |
+| WSN | Two-dimensional material-polymer hybrid membranes for enhanced mechanical stability and environmental remediation |  Discover Nano | Q3 |
