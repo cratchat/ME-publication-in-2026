@@ -2,7 +2,7 @@
 📚 This is the summary of ME journal publication in 2026
 
 🔍 Highlights
-✅ 26 peer-reviewed publications
+✅ 27 peer-reviewed publications
 
 | Author | Title | Journal | Ranking |
 |--------|-------|---------|---------|
@@ -32,3 +32,4 @@
 | WSN | Two-dimensional material-polymer hybrid membranes for enhanced mechanical stability and environmental remediation |  Discover Nano | Q3 |
 | SCW, GPN* | Mathematical Modeling and Comparative Analysis of Stability in Internal Combustion Engine and Electric Vehicles |  Journal of Research and Applications in Mechanical Engineering | Q4 |
 | GPN* | Predictive Model for Estimating Liquid Film Thickness in Upward Vertical Annular Gas–Liquid Flow: A Semi-Empirical Approach for Energy-Related Applications |  Journal of Thermal Analysis and Calorimetryg | Q2 |
+| SPT | Spinning disc reactors: recent advances in CFD modeling for optimization and scale-up |  Current Opinion in Chemical Engineering | T1 |
