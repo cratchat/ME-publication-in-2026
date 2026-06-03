@@ -24,7 +24,7 @@
 | RCR* | You Only Grasp Once: Human-Inspired Benign Grasping for Agricultural Products |  Journal of Intelligent & Robotic Systems | Q1 |
 | TPP | Energy and exergy analysis of a hybrid active-passive PV cooling system with MgO-enhanced PCM, metallic microchannels, and TEGs |  Renewable Energy | T1 |
 | WSN, GPN, APP | Sacrificial-Layer Technique Fabrication and Characterization of Membrane Pneumatic Actuators for Flow Control in Microfluidics – Reproducibility Assessment |  Applied Science and Engineering Progress | Q1 |
-| SMK, PSG* | Detection of Failure and Measurement of Number of Cycles to Failure of Nickel–Titanium Rotary files in Bending Fatigue Testing |  European Journal of Dentistry | Q3 |
+| SMK, PSG* | Detection of Failure and Measurement of Number of Cycles to Failure of Nickel–Titanium Rotary files in Bending Fatigue Testing |  European Journal of Dentistry | Q1 |
 | RCR* | In-Situ Casting as a Formative Manufacturing Primitive within FDM 3D Printing |  Polymers | Q1 |
 | WSN* | Bioinspired carbon dot-Ag nanocomposite derived from basil leaves for sensitive electrocatalytic detection of ciprofloxacin |  Journal of Water Process Engineering | T1 |
 | GPN* | Joint Signal-Power and Direction of Arrival Estimation For Far-field Targets Using Novel Meta Heuristic Framework | IEEE Access | T1 |
