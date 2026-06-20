@@ -2,7 +2,7 @@
 📚 This is the summary of ME journal publication in 2026
 
 🔍 Highlights
-✅ 27 peer-reviewed publications
+✅ 29 peer-reviewed publications
 
 | Author | Title | Journal | Ranking |
 |--------|-------|---------|---------|
@@ -34,3 +34,4 @@
 | GPN* | Predictive Model for Estimating Liquid Film Thickness in Upward Vertical Annular Gas–Liquid Flow: A Semi-Empirical Approach for Energy-Related Applications |  Journal of Thermal Analysis and Calorimetryg | Q2 |
 | SPT | Spinning disc reactors: recent advances in CFD modeling for optimization and scale-up |  Current Opinion in Chemical Engineering | T1 |
 | WSN | Sustainable synthesis of bimetallic (Zn/Bi)-oxy-chloride-based nanosheets enmeshed rods nanocomposite using bee pollen (ZBCBR) for photo-responsive biocidal agent |  Journal of Environmental Chemical Engineering | T1 |
+| RCR* | Spinning disc reactors: recent advances in CFD modeling for optimization and scale-upDesign and Validation of a Cyber–Physical Medication Dispensing Platform Integrating Edge AI Verification, Distributed Control, and Cloud Synchronization |  Sensors | T1 |
