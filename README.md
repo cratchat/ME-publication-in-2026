@@ -2,7 +2,7 @@
 📚 This is the summary of ME journal publication in 2026
 
 🔍 Highlights
-✅ 29 peer-reviewed publications
+✅ 30 peer-reviewed publications
 
 | Author | Title | Journal | Ranking |
 |--------|-------|---------|---------|
@@ -35,3 +35,4 @@
 | SPT | Spinning disc reactors: recent advances in CFD modeling for optimization and scale-up |  Current Opinion in Chemical Engineering | T1 |
 | WSN | Sustainable synthesis of bimetallic (Zn/Bi)-oxy-chloride-based nanosheets enmeshed rods nanocomposite using bee pollen (ZBCBR) for photo-responsive biocidal agent |  Journal of Environmental Chemical Engineering | T1 |
 | RCR* | Design and Validation of a Cyber–Physical Medication Dispensing Platform Integrating Edge AI Verification, Distributed Control, and Cloud Synchronization |  Sensors | T1 |
+| SMK | INFLUENCE OF ZnO INCORPORATION ON PHASE STABILITY, MORPHOLOGY AND APPARENT DENSITY OF TiO2-BASED SPRAY FEEDSTOCK POWDERS |  Malaysian Journal of Microscopy | Q3 |
