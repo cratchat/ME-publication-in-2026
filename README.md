@@ -2,7 +2,7 @@
 📚 This is the summary of ME journal publication in 2026
 
 🔍 Highlights
-✅ 31 peer-reviewed publications
+✅ 32 peer-reviewed publications
 
 | Author | Title | Journal | Ranking |
 |--------|-------|---------|---------|
@@ -37,3 +37,4 @@
 | RCR* | Design and Validation of a Cyber–Physical Medication Dispensing Platform Integrating Edge AI Verification, Distributed Control, and Cloud Synchronization |  Sensors | T1 |
 | SMK | Influence Of ZnO Incorporation On Phase Stability, Morphology And Apparent Density Of TiO₂-Based Spray Feedstock Powders |  Malaysian Journal of Microscopy | Q3 |
 | GPN*, TJW*| A Refined 2D Lagrangian-Based Model for Joint Torque Estimation in Lower-Limb Exoskeleton Applications | Mathematics | T1 |
+| GPN*| Hybrid Adaptive Quantum Particle Swarm Optimization for High-Resolution 2D DOA Estimation Under Adverse Conditions | IEEE Open Journal of the Communications Society | Q1 |
