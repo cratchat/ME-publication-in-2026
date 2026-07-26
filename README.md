@@ -2,7 +2,7 @@
 📚 This is the summary of ME journal publication in 2026
 
 🔍 Highlights
-✅ 35 peer-reviewed publications
+✅ 34 peer-reviewed publications
 
 | Author | Title | Journal | Ranking |
 |--------|-------|---------|---------|
