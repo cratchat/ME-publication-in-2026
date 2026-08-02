@@ -2,7 +2,7 @@
 📚 This is the summary of ME journal publication in 2026
 
 🔍 Highlights
-✅ 34 peer-reviewed publications
+✅ 36 peer-reviewed publications
 
 | Author | Title | Journal | Ranking |
 |--------|-------|---------|---------|
@@ -40,3 +40,8 @@
 | COW<sup>1</sup>| Effects of robotic pelvic guidance and visual feedback designs on upper body seated coordination and sense of agency in virtual reality | International Journal of Robotics Research | T1 |
 | BLN<sup>1</sup>,NVS,ROY*| Numerical Study on the Influence of CO2 Dilution on Soot Emission in Turbulent Diffusion Flames Impinging on a Cold Surface | International Journal of Energy Research | T1 |
 | SSL<sup>1</sup>,GPN| Predictive model for estimating liquid film thickness in upward vertical annular gas–liquid flow: a semi-empirical approach for energy-related applications | Journal of Thermal Analysis and Calorimetry | Q1 |
+| GPN*| Automated detection of HER2 gene copy number in breast cancer using deep learning techniques | Intelligence-Based Medicine | Q2 |
+| SPT| Enhancing biodiesel yield through disc-surface texturing in a spinning disc reactor: Experimental and CFD analysis | Chemical Engineering and Processing - Process Intensification | Q1 |
+
+
+
