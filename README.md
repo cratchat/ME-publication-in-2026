@@ -6,7 +6,7 @@
 
 | Author | Title | Journal | Ranking |
 |--------|-------|---------|---------|
-| GPN* | Virtual Reality Rehabilitation Platform for Mild Cognitive Impairment: A Metaverse Approach | Engineering Journal | Q2 |
+| GPN* | Virtual Reality Rehabilitation Platform for Mild Cognitive Impairment: A Metaverse Approach | Engineering Journal | Q3 |
 | SSL* | Optimal scheduling of hydropower and pumped storage hydropower for high renewable energy share in Thailand: A novel hybrid optimization approach with dimensionality reduction | Journal of Energy Storage | T1 |
 | SMK | Effect of Fibre Content and Surface Treatment on the Properties of Coconut Fibre/ Recycled Polypropylene (CF/rPP) Composites for FDM-Based 3D Printing | Jurnal Kejuruteraan | Q3 |
 | WSN<sup>1</sup> | Nickel tungstate nanoparticles synthesized via a surfactant-assisted method: an efficient platform for neurotransmitter detection | Journal of Materials Chemistry B | T1 |
