@@ -2,7 +2,7 @@
 📚 This is the summary of ME journal publication in 2026
 
 🔍 Highlights
-✅ 37 peer-reviewed publications.
+✅ 38 peer-reviewed publications.
 
 | Author | Title | Journal | Ranking |
 |--------|-------|---------|---------|
@@ -43,6 +43,6 @@
 | GPN*| Automated detection of HER2 gene copy number in breast cancer using deep learning techniques | Intelligence-Based Medicine | Q2 |
 | SPT| Enhancing biodiesel yield through disc-surface texturing in a spinning disc reactor: Experimental and CFD analysis | Chemical Engineering and Processing - Process Intensification | Q1 |
 | WSN| Heterojunction for Boosting Photo-Oxidation of Organic Contaminants | ChemistrySelect | Q3 |
-
+| TSN<sup>1</sup>, ASK* | The Development of Synchronous Motor Using Non-Rare Earth Permanent Magnet to Improve Environmental and Economic Sustainability | Engineering Journal | Q2 |
 
 
