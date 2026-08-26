@@ -18,7 +18,7 @@
 | PTP, JVS* | Intramedullary nail design for Thais with novel multi-femur shape optimization approach | Scientific Reports | Q1 |
 | PTP, JVS | Determining how the pattern of bone healing affects the strain of plate implant via frequency detection: a biomechanical cadaveric study | Chulalongkorn Medical Journal | Q4 |
 | GPN, RCR* | A Deep Learning- and AI-Enhanced Telecentric Vision Framework for Automated Imaging-to-CAD Reconstruction | Computer Modeling in Engineering & Sciences | Q2 |
-| CTT<sup>1</sup>* | Performance Improvement of a Refrigeration Cycle Using the Subcooling Effect from the Thermal Energy Storage | Engineering Journal | Q2 |
+| CTT<sup>1</sup>* | Performance Improvement of a Refrigeration Cycle Using the Subcooling Effect from the Thermal Energy Storage | Engineering Journal | Q3 |
 | GPN, RCR*| Design and Evaluation of a Dual-Layer Emotion–Personality Framework for Adaptive Conversational Robots | Journal of Advances in Information Technology | Q2 |
 | GPN, PRR, TJW* | An Accessible 2D Video-Based Gait Analysis Framework with Model-Based Illustration of Joint Torque and Power Trends | Scientific Reports | Q1 |
 | RCR* | You Only Grasp Once: Human-Inspired Benign Grasping for Agricultural Products |  Journal of Intelligent & Robotic Systems | Q1 |
@@ -28,7 +28,7 @@
 | RCR* | In-Situ Casting as a Formative Manufacturing Primitive within FDM 3D Printing |  Polymers | Q1 |
 | WSN* | Bioinspired carbon dot-Ag nanocomposite derived from basil leaves for sensitive electrocatalytic detection of ciprofloxacin |  Journal of Water Process Engineering | T1 |
 | GPN* | Joint Signal-Power and Direction of Arrival Estimation For Far-field Targets Using Novel Meta Heuristic Framework | IEEE Access | T1 |
-| TSN* | Evaluation of The Flexural Properties of Re-entrant Structured Sandwich Beams Fabricated via 3D Printing Using Three-Point Bending Test | Engineering Journal | Q2 |
+| TSN* | Evaluation of The Flexural Properties of Re-entrant Structured Sandwich Beams Fabricated via 3D Printing Using Three-Point Bending Test | Engineering Journal | Q3 |
 | WSN | Two-dimensional material-polymer hybrid membranes for enhanced mechanical stability and environmental remediation |  Discover Nano | Q3 |
 | SCW, GPN* | Mathematical Modeling and Comparative Analysis of Stability in Internal Combustion Engine and Electric Vehicles |  Journal of Research and Applications in Mechanical Engineering | Q4 |
 | SPT | Spinning disc reactors: recent advances in CFD modeling for optimization and scale-up |  Current Opinion in Chemical Engineering | T1 |
@@ -43,6 +43,6 @@
 | GPN*| Automated detection of HER2 gene copy number in breast cancer using deep learning techniques | Intelligence-Based Medicine | Q2 |
 | SPT| Enhancing biodiesel yield through disc-surface texturing in a spinning disc reactor: Experimental and CFD analysis | Chemical Engineering and Processing - Process Intensification | Q1 |
 | WSN| Heterojunction for Boosting Photo-Oxidation of Organic Contaminants | ChemistrySelect | Q3 |
-| TSN<sup>1</sup>, ASK* | The Development of Synchronous Motor Using Non-Rare Earth Permanent Magnet to Improve Environmental and Economic Sustainability | Engineering Journal | Q2 |
+| TSN<sup>1</sup>, ASK* | The Development of Synchronous Motor Using Non-Rare Earth Permanent Magnet to Improve Environmental and Economic Sustainability | Engineering Journal | Q32 |
 
 
