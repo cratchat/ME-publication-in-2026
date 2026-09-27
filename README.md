@@ -1,8 +1,11 @@
 # ME-publication-in-2026
-📚 This is the summary of ME journal publication in 2026
-
-🔍 Highlights
-✅ 38 peer-reviewed publications.
+The department’s 40 publications demonstrate a healthy, multidisciplinary, and application-driven research portfolio.
+- 🏆 Strong publication quality: 25 papers (62.5%) are recorded as T1 or Q1, while 29 papers (72.5%) are classified as T1, Q1, or Q2.
+- 🌐 Broad research coverage: Key areas include healthcare engineering, sustainable energy, robotics and AI, advanced manufacturing, functional materials, and environmental technologies.
+- 🔗 Interdisciplinary integration: Mechanical engineering is effectively combined with artificial intelligence, sensing, materials science, biotechnology, and sustainability.
+- 🛠️ Practical impact: The research addresses real-world needs through medical devices, rehabilitation systems, renewable energy, intelligent automation, advanced manufacturing, and pollution control.
+- 📚 Diverse journal presence: The papers are published across approximately 32 journals, demonstrating broad academic reach and strong collaboration potential.
+💡 Overall, the department has a healthy and impactful research profile—supported by strong journal rankings, diverse expertise, interdisciplinary collaboration, and clear relevance to industrial and societal needs.
 
 | Author | Title | Journal | Ranking |
 |--------|-------|---------|---------|
