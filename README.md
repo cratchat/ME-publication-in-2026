@@ -45,4 +45,4 @@
 | WSN| [Heterojunction for Boosting Photo-Oxidation of Organic Contaminants](papers/38_Heterojunction%20for%20Boosting%20Photo%E2%80%90Oxidation%20of%20Organic%20Contaminants.pdf) | ChemistrySelect | Q3 |
 | TSN<sup>1</sup>, ASK* | [The Development of Synchronous Motor Using Non-Rare Earth Permanent Magnet to Improve Environmental and Economic Sustainability](papers/27_The%20Development%20of%20Synchronous%20Motor%20Using%20Non-Rare%20Earth%20Permanent%20Magnet%20to%20Improve%20Environmental%20and%20Economic%20Sustainability.pdf) | Engineering Journal | Q3 |
 | RCR*,GPN | [Design and Experimental Validation of a Programmable Pressure Pneumatic Knife CNC Platform for Flexible Sheet Cutting](papers/39_Design%20and%20Experimental%20Validation%20of%20a%20Programmable%20Pressure%20Pneumatic%20Knife%20CNC%20Platform%20for%20Flexible%20Sheet%20Cutting.pdf) |  Machines | T1 |
-
+| TSN* | Effect of Printing Speed and Core Relative Density on the Mass-Specific Bending Performance of 3D-Printed PLA Re-Entrant Sandwich Structures |  Engineering Journal | Q3 |
