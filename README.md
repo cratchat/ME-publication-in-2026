@@ -44,5 +44,5 @@
 | SPT| [Enhancing biodiesel yield through disc-surface texturing in a spinning disc reactor: Experimental and CFD analysis](papers/29_Enhancing%20biodiesel%20yield%20through%20disc-surface%20texturing%20in%20a%20spinning%20disc%20reactor%20-%20Experimental%20and%20CFD%20analysis.pdf) | Chemical Engineering and Processing - Process Intensification | Q1 |
 | WSN| Heterojunction for Boosting Photo-Oxidation of Organic Contaminants | ChemistrySelect | Q3 |
 | TSN<sup>1</sup>, ASK* | [The Development of Synchronous Motor Using Non-Rare Earth Permanent Magnet to Improve Environmental and Economic Sustainability](papers/27_The%20Development%20of%20Synchronous%20Motor%20Using%20Non-Rare%20Earth%20Permanent%20Magnet%20to%20Improve%20Environmental%20and%20Economic%20Sustainability.pdf) | Engineering Journal | Q3 |
-
+| RCR*,GPN | Design and Experimental Validation of a Programmable Pressure Pneumatic Knife CNC Platform for Flexible Sheet Cutting |  Machines | T1 |
 
