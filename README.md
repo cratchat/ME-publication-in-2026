@@ -49,3 +49,9 @@ The department’s 40 publications demonstrate a healthy, multidisciplinary, and
 | TSN<sup>1</sup>, ASK* | [The Development of Synchronous Motor Using Non-Rare Earth Permanent Magnet to Improve Environmental and Economic Sustainability](papers/27_The%20Development%20of%20Synchronous%20Motor%20Using%20Non-Rare%20Earth%20Permanent%20Magnet%20to%20Improve%20Environmental%20and%20Economic%20Sustainability.pdf) | Engineering Journal | Q3 |
 | RCR*,GPN | [Design and Experimental Validation of a Programmable Pressure Pneumatic Knife CNC Platform for Flexible Sheet Cutting](papers/39_Design%20and%20Experimental%20Validation%20of%20a%20Programmable%20Pressure%20Pneumatic%20Knife%20CNC%20Platform%20for%20Flexible%20Sheet%20Cutting.pdf) |  Machines | T1 |
 | TSN* | [Effect of Printing Speed and Core Relative Density on the Mass-Specific Bending Performance of 3D-Printed PLA Re-Entrant Sandwich Structures](papers/40_Effect%20of%20Printing%20Speed%20and%20Core%20Relative%20Density%20on%20the%20Mass-Specific%20Bending%20Performance%20of%203D-Printed%20PLA%20Re-Entrant%20Sandwich%20Structures.pdf) |  Engineering Journal | Q3 |
+| TPP | Financial Benefits Assessment of Napier Grass under Monocropping and Intercropping with Foundation Plant  | Bioenergy Research  | Q1 |
+| APP | Application of modified pump-free microfluidic system utilizing hydrostatic pressure on human cumulus cell culture: a model for long-term in vitro follicle growth | Microfluidics and Nanofluidics  | Q2 |
+| GPN*, RCR*, NAV* | Intrinsic Seebeck feedback for thermoelectric temperature regulation using a Peltier module | Results in Engineering  | Q1 |
+| RCR* | An Edge-Based Cyber–Physical Architecture for AI-Enabled Environmental Control in Indoor Microgreen Production | Computers and Electronics in Agriculture  | T1 |
+
+
