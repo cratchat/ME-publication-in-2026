@@ -1,5 +1,5 @@
 # ME-publication-in-2026
-The department’s 40 publications demonstrate a healthy, multidisciplinary, and application-driven research portfolio.
+The department’s 44 publications demonstrate a healthy, multidisciplinary, and application-driven research portfolio.
 - 🏆 Strong publication quality: 25 papers (62.5%) are recorded as T1 or Q1, while 29 papers (72.5%) are classified as T1, Q1, or Q2.
 - 🌐 Broad research coverage: Key areas include healthcare engineering, sustainable energy, robotics and AI, advanced manufacturing, functional materials, and environmental technologies.
 - 🔗 Interdisciplinary integration: Mechanical engineering is effectively combined with artificial intelligence, sensing, materials science, biotechnology, and sustainability.
