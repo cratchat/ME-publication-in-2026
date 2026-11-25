@@ -1,5 +1,5 @@
 # ME-publication-in-2026
-The department’s 48 publications demonstrate a healthy, multidisciplinary, and application-driven research portfolio.
+The department’s 49 publications demonstrate a healthy, multidisciplinary, and application-driven research portfolio.
 - 🏆 Strong publication quality: 25 papers (62.5%) are recorded as T1 or Q1, while 29 papers (72.5%) are classified as T1, Q1, or Q2.
 - 🌐 Broad research coverage: Key areas include healthcare engineering, sustainable energy, robotics and AI, advanced manufacturing, functional materials, and environmental technologies.
 - 🔗 Interdisciplinary integration: Mechanical engineering is effectively combined with artificial intelligence, sensing, materials science, biotechnology, and sustainability.
@@ -55,7 +55,10 @@ The department’s 48 publications demonstrate a healthy, multidisciplinary, and
 | RCR* | An Edge-Based Cyber–Physical Architecture for AI-Enabled Environmental Control in Indoor Microgreen Production | Computers and Electronics in Agriculture  | T1 |
 | PKW | Assist-as-Needed Rehabilitation With Bumpless Transfer Torque Command Shaping for a 2-DOF Planar Robot | IEEE Open Journal of the Industrial Electronics Society  | Q1 |
 | WSN* | Carbon-based two-dimensional nanomaterials (CB-2DMs) for high-performance wound healing platforms bridging mechanics and medicine | Discover Nano  | Q1 |
-| GPN*,RCR| From Telepresence Laboratories to an AI-Augmented University Learning Ecosystem: System Architecture, Information Flow, and Implementation Requirements | Sci | Q1 |
-| GPN*,RCR| Physics-Informed Machine Learning for Partial Differential Equations: Mechanisms, Trade-offs, and Computational Insights | Engineering Journal | Q3 |
+| GPN*, RCR| From Telepresence Laboratories to an AI-Augmented University Learning Ecosystem: System Architecture, Information Flow, and Implementation Requirements | Sci | Q1 |
+| GPN*, RCR| Physics-Informed Machine Learning for Partial Differential Equations: Mechanisms, Trade-offs, and Computational Insights | Engineering Journal | Q3 |
+| NVS*, ROY, TPP| Effects of interdigitated back contact architecture on Germanium-based near-field Thermophotovoltaic converter performance | Journal of Quantitative Spectroscopy and Radiative Transfer | Q1 |
+
+
 
 
