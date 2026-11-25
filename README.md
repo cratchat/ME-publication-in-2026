@@ -1,10 +1,10 @@
 # ME-publication-in-2026
 The department’s 50 publications demonstrate a healthy, multidisciplinary, and application-driven research portfolio.
-🏆 Journal rankings — Of the department’s 50 papers, 34 (68%) appeared in Q1 journals, including 18 (36%) in T1 journals (the top 10% within Q1). 39 papers (78%) appeared in journals ranked Q2 or higher. These figures use each journal’s best 2025 standing across Scopus CiteScore, SCImago SJR, and Clarivate JCR.
-🌐 Research breadth — The publications cover healthcare engineering, sustainable energy, robotics and AI, advanced manufacturing, functional materials, and environmental technologies.
-🔗 Interdisciplinary research — The studies combine mechanical engineering with artificial intelligence, sensing, materials science, biotechnology, and sustainability.
-🛠️ Practical applications — The research addresses needs in medical devices, rehabilitation, renewable energy, intelligent automation, advanced manufacturing, and pollution control.
-📚 Journal coverage — The 50 papers appeared in 40 distinct journals across engineering and related disciplines.
+## 🏆 Journal rankings — Of the department’s 50 papers, 34 (68%) appeared in Q1 journals, including 18 (36%) in T1 journals (the top 10% within Q1). 39 papers (78%) appeared in journals ranked Q2 or higher. These figures use each journal’s best 2025 standing across Scopus CiteScore, SCImago SJR, and Clarivate JCR.
+## 🌐 Research breadth — The publications cover healthcare engineering, sustainable energy, robotics and AI, advanced manufacturing, functional materials, and environmental technologies.
+## 🔗 Interdisciplinary research — The studies combine mechanical engineering with artificial intelligence, sensing, materials science, biotechnology, and sustainability.
+## 🛠️ Practical applications — The research addresses needs in medical devices, rehabilitation, renewable energy, intelligent automation, advanced manufacturing, and pollution control.
+## 📚 Journal coverage — The 50 papers appeared in 40 distinct journals across engineering and related disciplines.
 
 | Author | Title | Journal | Ranking |
 |--------|-------|---------|---------|
