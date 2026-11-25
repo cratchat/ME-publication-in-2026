@@ -1,11 +1,10 @@
 # ME-publication-in-2026
 The department’s 50 publications demonstrate a healthy, multidisciplinary, and application-driven research portfolio.
-- 🏆 Strong publication quality: 25 papers (62.5%) are recorded as T1 or Q1, while 29 papers (72.5%) are classified as T1, Q1, or Q2.
-- 🌐 Broad research coverage: Key areas include healthcare engineering, sustainable energy, robotics and AI, advanced manufacturing, functional materials, and environmental technologies.
-- 🔗 Interdisciplinary integration: Mechanical engineering is effectively combined with artificial intelligence, sensing, materials science, biotechnology, and sustainability.
-- 🛠️ Practical impact: The research addresses real-world needs through medical devices, rehabilitation systems, renewable energy, intelligent automation, advanced manufacturing, and pollution control.
-- 📚 Diverse journal presence: The papers are published across approximately 32 journals, demonstrating broad academic reach and strong collaboration potential.
-💡 Overall, the department has a healthy and impactful research profile—supported by strong journal rankings, diverse expertise, interdisciplinary collaboration, and clear relevance to industrial and societal needs.
+🏆 Journal rankings — Of the department’s 50 papers, 34 (68%) appeared in Q1 journals, including 18 (36%) in T1 journals (the top 10% within Q1). 39 papers (78%) appeared in journals ranked Q2 or higher. These figures use each journal’s best 2025 standing across Scopus CiteScore, SCImago SJR, and Clarivate JCR.
+🌐 Research breadth — The publications cover healthcare engineering, sustainable energy, robotics and AI, advanced manufacturing, functional materials, and environmental technologies.
+🔗 Interdisciplinary research — The studies combine mechanical engineering with artificial intelligence, sensing, materials science, biotechnology, and sustainability.
+🛠️ Practical applications — The research addresses needs in medical devices, rehabilitation, renewable energy, intelligent automation, advanced manufacturing, and pollution control.
+📚 Journal coverage — The 50 papers appeared in 40 distinct journals across engineering and related disciplines.
 
 | Author | Title | Journal | Ranking |
 |--------|-------|---------|---------|
